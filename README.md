@@ -1,4 +1,4 @@
-# Airline Review Sentiment Analysis & Multi-Label Aspect Detection Using Fine-Tuned Transformer Models and SHAP
+# Airlines Review Sentiment Analysis & Multi-Label Aspect Detection Using Fine-Tuned Transformer Models and SHAP
 
 ## 📌 1. Project Overview
 This repository contains an advanced deep learning and Explainable AI (XAI) pipeline developed for a comprehensive, comparative text analytics study on international aviation customer experience. Utilizing raw customer reviews scraped from the **Skytrax** platform, this project evaluates state-of-the-art **Transformer** architectures by fine-tuning them across two distinct computational linguistics tasks simultaneously:
