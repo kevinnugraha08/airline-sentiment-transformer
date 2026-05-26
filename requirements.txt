@@ -1,0 +1,20 @@
+# Data Manipulation & File I/O
+pandas
+numpy
+openpyxl
+
+# Text Processing & Natural Language Processing (NLP)
+Sastrawi
+tqdm
+datasets
+
+# Machine Learning & Model Evaluation
+scikit-learn
+imbalanced-learn
+
+# Explainable AI (XAI) & Model Transparency
+shap
+
+# Data Visualization & Graphics
+matplotlib
+seaborn
